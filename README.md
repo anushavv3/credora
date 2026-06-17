@@ -1,4 +1,4 @@
-# SkillTrust
+# credora
 
 A verified skilled worker network that connects clients with background-checked and certified professionals.
 
